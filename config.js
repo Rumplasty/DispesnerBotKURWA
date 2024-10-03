@@ -22,7 +22,7 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTI2NDU1MDY5MTI4OTE3NDAyOA.GxsEdP.RNplLglXp0k6W7EO_n98qbeaV7IN4EZd80s1bU",
   ownerID: ["1004206704994566164", ""], 
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
